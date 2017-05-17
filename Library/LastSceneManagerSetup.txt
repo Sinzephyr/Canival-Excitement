@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/Circus Excitement.unity
+  isLoaded: 1
+  isActive: 1
